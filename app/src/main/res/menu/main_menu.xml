@@ -5,9 +5,4 @@
     android:layout_height="match_parent"
     android:orientation="horizontal">
 
-    <item
-        android:id="@+id/actionSetting"
-        android:icon="@drawable/ic_setting"
-        android:title="@string/menu_confirm"
-        app:showAsAction="ifRoom|collapseActionView" />
 </menu>
